@@ -53,17 +53,17 @@ export default function Welcome() {
         }}>
         <Text className="text-base text-green-900">Get Started</Text>
       </TouchableOpacity>
-      {/* Powered by ISOLUTION
+      {/* Powered by ISOWLUTION
        */}
 
       <TouchableOpacity
         className=" rounded-full p-4 justify-center items-center w-[90%] mt-8"
         onPress={() => {
           requestAnimationFrame(() => {
-            Linking.openURL('https://www.isolution.sa/');
+            Linking.openURL('https://sowlutions.com/');
           });
         }}>
-        <Text className="text-base text-white">Powered by iSolution</Text>
+        <Text className="text-base text-white">Powered by Sowlutions</Text>
       </TouchableOpacity>
     </View>
   );
