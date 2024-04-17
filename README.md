@@ -42,3 +42,7 @@ The application uses the GNews API to fetch news data. You need to replace the p
 You have now successfully set up and configured your React Native application. Enjoy exploring and using the application. If you have any questions or encounter any issues, feel free to open an issue in the repository. Happy coding!
 
 
+https://github.com/tahazalzali/Gnews/assets/76237241/d5e1bf63-22b5-41ee-9172-c7d2187d8541
+
+
+
